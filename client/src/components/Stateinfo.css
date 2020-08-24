@@ -1,0 +1,15 @@
+.location{
+    min-width: 360px;
+    max-width: 70%;
+    margin: 0 auto;
+    border: skyblue 4px solid;
+    padding: 10px;
+    box-shadow: 15px 10px #888888;
+    margin-bottom: 30px;
+}
+
+.doughnut{
+    width: 245px;
+    height: 180px;
+    display: inline-block;
+}

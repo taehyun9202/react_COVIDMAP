@@ -1,0 +1,64 @@
+.col{
+    display: inline-block;
+    vertical-align: top;
+    margin: 0px;
+    min-width: 500px;
+    padding: 0px;
+}
+
+h1{
+    font-size: 40px;
+}
+h3{
+    text-decoration: underline;
+}
+.positive, .recovered, .death, .tested{
+    padding-top: 15px;
+    background-color: skyblue;
+    display: inline-block;
+    width: 120px;
+}
+.title{
+    width: 480px;
+    padding-top: 5px;
+    position: relative;
+    top: 35px;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.usmap{
+    position: relative;
+}
+
+.colorbar{
+    position: relative;
+    top: -100px;
+}
+
+.testtoday, .positivetoday, .deathtoday, .hospitalizetoday{
+    padding-top: 15px;
+    background-color: tomato;
+    display: inline-block;
+    width: 120px;
+}
+
+.statusreport{
+    background-color: lightskyblue;
+    width: 240px;
+}
+
+.content_table{
+    margin-top: 30px;
+}
+
+.doughnut{
+    margin-top: 50px;
+    width: 245px;
+    display: inline-block;
+}
+
+.percentage{
+    position: relative;
+    top: -100px
+}
